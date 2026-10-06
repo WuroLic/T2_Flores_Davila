@@ -1,0 +1,2 @@
+Observaciones de la Evaluación 02 de Lenguaje de Programación II.
+Archivo creado para evidenciar el control de cambios con Git.
