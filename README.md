@@ -36,3 +36,13 @@ Evaluación 02 de Lenguaje de Programación II sobre gestión de versiones media
 
 Registro de cambios realizados durante la Evaluación 02 para evidenciar el uso de Git.
 
+
+
+\## Gestión de ramas
+
+
+
+Rama utilizada: feature-flores.
+
+Se desarrolló una funcionalidad independiente para evidenciar el trabajo con ramas en Git.
+
